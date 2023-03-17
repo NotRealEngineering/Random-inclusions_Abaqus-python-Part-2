@@ -1,5 +1,4 @@
 #Property of Not Real Engineering 
-#Author: Shank S. Kulkarni
 #Copyright 2020 Not Real Engineering - All Rights Reserved You may not use, 
 #           distribute and modify this code without the written permission 
 #           from Not Real Engineering.
@@ -197,4 +196,3 @@ for q in range (1,Max_iterations):
     mdb.jobs['Job-%d' %(q) ].waitForCompletion()
 
 #Property of Not Real Engineering 
-# Author: Shank S. Kulkarni
