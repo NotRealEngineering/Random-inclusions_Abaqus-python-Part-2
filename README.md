@@ -4,7 +4,7 @@ This is a code I used in following video:
 
 Creating Random Inclusions using python scripting | Python scripting in Abaqus part-2
 
-Link of video: https://youtu.be/lnjt0ry7um4
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
